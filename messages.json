@@ -1,0 +1,10 @@
+{
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Meet the QR Code Extension the easiest and fastest way to generate QR codes."
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "QR Code Generator Popup"
+   }
+}
